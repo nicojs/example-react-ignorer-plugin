@@ -1,0 +1,2 @@
+[*.{js,cjs,mjs,ts}]
+quote_type = single
